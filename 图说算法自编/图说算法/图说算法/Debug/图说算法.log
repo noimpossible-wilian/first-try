@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c语言\图说算法自编\图说算法\图说算法\test.c(30,15): warning C4047: “return”:“int”与“int *”的间接级别不同
+D:\c语言\图说算法自编\图说算法\图说算法\test.c(39,1): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  图说算法.vcxproj -> D:\c语言\图说算法自编\图说算法\Debug\图说算法.exe
